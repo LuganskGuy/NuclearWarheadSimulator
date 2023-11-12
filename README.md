@@ -1,5 +1,4 @@
 # NuclearWarheadSimulator
-?
 Симулятор Ядерной Боеголовки (СЯБ)
 
 Nuclear Warhead Simulator (HWS)
